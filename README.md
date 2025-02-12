@@ -48,4 +48,6 @@
 🎯 *Striving for excellence, embracing challenges, and making an impact!*
 ---
 ## Crafted with excellence
-<img src="logo.png" alt="Crafted with excellence" width="100"/>
+![logo](https://github.com/user-attachments/assets/cc9dc2e5-4b3a-4fa5-960f-e6699c1a243c)
+
+![logo](https://github.com/user-attachments/assets/8ede6285-24d5-49e4-b50a-2e39af9c58aa)
