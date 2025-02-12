@@ -46,3 +46,6 @@
 
 💡 *Always learning, always building!* 🚀  
 🎯 *Striving for excellence, embracing challenges, and making an impact!*
+---
+## Crafted with excellence
+<img src="logo.png" alt="Crafted with excellence" width="100"/>
