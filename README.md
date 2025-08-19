@@ -1,4 +1,4 @@
-# Ananaya-R2004
+# Ananya-R2004
 # Hi there, I'm Ananya 👋
 
 🚀 **Data Science Explorer | AI Enthusiast | Building Smart Solutions**  
